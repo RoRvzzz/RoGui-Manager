@@ -36,6 +36,7 @@ Key	Action
 - F6	List/Inspect GUIs: Opens the detailed GUI Inspector window.
 - F7	Undelete GUI: Restores the most recently deleted GUI.
 - F8	Clear Deleted History: Clears all GUIs from the undelete buffer.
+  
 Credits
 
     Made by rorvzzz
