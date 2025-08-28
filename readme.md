@@ -39,3 +39,7 @@ Key	Action
 Credits
 
     Made by rorvzzz
+
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RoRvzzz/RoGui-Manager/main/RoGui%20V.0.2.lua"))()
+```
