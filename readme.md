@@ -28,14 +28,14 @@ How to Use
 
 Keybinds
 Key	Action
-F1	Show All GUIs: Makes all temporarily visible GUIs appear.
-F2	Un-Show GUIs: Reverts the action of F1.
-F3	Hide All GUIs: Makes all currently visible GUIs disappear.
-F4	Un-Hide GUIs: Reverts the action of F3.
-F5	Toggle Delete Mode: Enter a mode to delete GUIs with Backspace.
-F6	List/Inspect GUIs: Opens the detailed GUI Inspector window.
-F7	Undelete GUI: Restores the most recently deleted GUI.
-F8	Clear Deleted History: Clears all GUIs from the undelete buffer.
+- F1	Show All GUIs: Makes all temporarily visible GUIs appear.
+- F2	Un-Show GUIs: Reverts the action of F1.
+- F3	Hide All GUIs: Makes all currently visible GUIs disappear.
+- F4	Un-Hide GUIs: Reverts the action of F3.
+- F5	Toggle Delete Mode: Enter a mode to delete GUIs with Backspace.
+- F6	List/Inspect GUIs: Opens the detailed GUI Inspector window.
+- F7	Undelete GUI: Restores the most recently deleted GUI.
+- F8	Clear Deleted History: Clears all GUIs from the undelete buffer.
 Credits
 
     Made by rorvzzz
