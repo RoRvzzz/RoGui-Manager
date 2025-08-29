@@ -1,4 +1,4 @@
-# ROGUI Manager v5.7
+# ROGUI Manager v5.9, Release V1 (2025-08-29)
 
 A powerful and modern script for managing, inspecting, and manipulating in-game GUI elements in Roblox.
 Description
